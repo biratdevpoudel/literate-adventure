@@ -54,10 +54,10 @@ function Footer() {
                 </div>
                 <div className='footer-link-items'>
                     <h2>Social Media</h2>
-                    <Link to='/www.instagram.com'>Instagram</Link>
-                    <Link to='/'>Facebook</Link>
-                    <Link to='/'>Twitter</Link>
-                    <Link to='/'>Youtube</Link>
+                    <Link to='www.instagram.com'>Instagram</Link>
+                    <Link to='www.facebook.com'>Facebook</Link>
+                    <Link to='www.twitter.com'>Twitter</Link>
+                    <Link to='www.youtube.com'>Youtube</Link>
                 </div>
             </div>
         </div>
